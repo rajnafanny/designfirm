@@ -200,3 +200,145 @@ nav {
   font-weight: 400;
   margin-bottom: 20px;
 }
+.services-wrapper {
+  width: 100%;
+  background-color: #F2F5FF;
+  padding: 96px;
+  margin-bottom: 100px;
+}
+
+.services-section {
+  background-color: #F2F5FF;
+  width: 100%;
+}
+
+.services-list {
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+  margin-top: 35px;
+}
+
+.service-text {
+  align-items: center;
+}
+
+.service-text h2 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.services-section p{
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.service-text p {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 25px;
+  text-align: center;
+  height: 156px;
+}
+
+.service-item img {
+  width: 138px;
+  height: 90px;
+  margin-bottom: 25px;
+  align-self: center;
+  display: flex;
+}
+
+.service-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 370px;
+  padding: 40px 30px;
+  border: 1px solid #2253EA;
+  border-radius: 20px;
+  box-shadow: 0 4px 9.4px #2253EA25;
+  background-color: white;
+}
+
+.services-section h1 {
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+.service-text a {
+  text-decoration: none;
+  color: #2253EA;
+  font-weight: 600;
+  font-size: 18px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.portfolio-section .secondary-button {
+  display: block;
+  margin: 0px auto 0;
+  margin-bottom: 100px;
+}
+
+.portfolio-section h1 {
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.portfolio-section p{
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.portfolio-text h2 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.portfolio-text h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+.portfolio-text p {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 15px;
+  text-align: center;
+  height: 156px;
+}
+
+.portfolio-list {
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+  margin-top: 35px;
+}
+
+.portfolio-img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 25px;
+  align-self: center;
+  display: flex;
+}
+
